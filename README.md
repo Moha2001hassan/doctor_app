@@ -16,7 +16,7 @@ Flutter app use Clean Architecture with Cubit, this app help people to book doct
 - Retrofit
 - Dio
 - Bloc (Cubit)
-- Freezd
+- Freezed
 - json_annotation
 - Get It
 - Localization

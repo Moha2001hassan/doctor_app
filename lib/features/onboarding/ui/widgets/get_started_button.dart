@@ -1,4 +1,4 @@
-import 'package:complet_project/core/helper/extentions.dart';
+import 'package:complet_project/core/helper/extensions.dart';
 import 'package:flutter/material.dart';
 import '../../../../core/routing/routes.dart';
 import '../../../../core/theme/colors.dart';
