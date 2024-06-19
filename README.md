@@ -1,17 +1,44 @@
-# complet_project
+# Doctor App
 
-A Flutter project about Doctors.
+Flutter app use Clean Architecture with Cubit, this app help people to book doctors' clinics, with amazing UI.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Splash Screen
+- Onboarding Screen 
+- Login Screen
+- Sign Up Screen
+- Main Screen
+- 
 
-A few resources to get you started if this is your first Flutter project:
+## Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Retrofit
+- Dio
+- Bloc (Cubit)
+- Freezd
+- json_annotation
+- Get It
+- Localization
+- Native Splash
+- cached_network_image
+- shared_preferences
+- firebase_core
+- flutter_svg
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Screen Shots
+
+<div>    
+<img src="https://github.com/Moha2001hassan/doctor_app/assets/108886682/0bdfdccc-1cfe-4746-9bc0-11cf9e793956" alt="screen1" width="200">
+<img src="https://github.com/Moha2001hassan/doctor_app/assets/108886682/0bdfdccc-1cfe-4746-9bc0-11cf9e793956" alt="screen2" width="200">
+<img src="https://github.com/Moha2001hassan/doctor_app/assets/108886682/0bdfdccc-1cfe-4746-9bc0-11cf9e793956" alt="screen3" width="200">
+<img src="https://github.com/Moha2001hassan/doctor_app/assets/108886682/0bdfdccc-1cfe-4746-9bc0-11cf9e793956" alt="screen4" width="200">
+
+</div> 
+
+
+
+
+
+
 
